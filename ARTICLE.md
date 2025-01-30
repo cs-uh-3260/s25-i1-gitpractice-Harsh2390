@@ -8,3 +8,6 @@ Article checked for typos
 
 ### Vahagn Yeritsyan Comment
 The article is a great source for developers and people to understand the future trends in software development and it can help people orient their future careers and adapt quickly to a rapidly changing software engineering world.
+
+### Vahagn Yeritsyan Comment 2
+The article is a great source for developers and people to understand the future trends in software development and it can help people orient their future careers and adapt quickly to a rapidly changing software engineering world!!!
